@@ -1,6 +1,6 @@
 # CMKL: Continual Multimodal Knowledge Graph Learner
 
-Anonymous code release accompanying the NeurIPS 2026 main-track submission **CMKL: Modality-Aware Continual Learning for Evolving Biomedical Knowledge Graphs**. This repository contains the full CMKL model, training procedure, and ablation infrastructure. CMKL is evaluated on the PrimeKG-CL benchmark, which is released as a separate downloadable archive.
+Anonymous code release accompanying the anonymous submission **CMKL: Multimodal Continual Learning for Evolving Biomedical Knowledge Graphs**. This repository contains the full CMKL model, training procedure, and ablation infrastructure. CMKL is evaluated on the PrimeKG-CL benchmark, which is released as a separate downloadable archive.
 
 ## What is CMKL?
 
